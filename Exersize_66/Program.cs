@@ -42,7 +42,7 @@ namespace Exersize_66
             string strInput5 = Console.ReadLine();
             int input5 = Convert.ToInt32(strInput5);
             int num3 = 7;
-            decimal total5 = input5 / num3;
+            decimal total5 = input5 % num3;
             Console.WriteLine(total5);
             Console.ReadLine();
 

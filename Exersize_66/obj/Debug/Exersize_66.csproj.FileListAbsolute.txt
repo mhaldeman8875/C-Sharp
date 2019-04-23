@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\bin\Debug\Exersize_66.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\bin\Debug\Exersize_66.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\bin\Debug\Exersize_66.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\obj\Debug\Exersize_66.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\obj\Debug\Exersize_66.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\obj\Debug\Exersize_66.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_66\obj\Debug\Exersize_66.pdb

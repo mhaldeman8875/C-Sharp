@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\bin\Debug\Exersize_37.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\bin\Debug\Exersize_37.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\bin\Debug\Exersize_37.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\obj\Debug\Exersize_37.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\obj\Debug\Exersize_37.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\obj\Debug\Exersize_37.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exersize_37\obj\Debug\Exersize_37.pdb

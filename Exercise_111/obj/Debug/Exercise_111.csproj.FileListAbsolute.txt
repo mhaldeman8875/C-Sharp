@@ -1,0 +1,7 @@
+C:\Users\madel\source\repos\Exercise_111\obj\Debug\Exercise_111.csprojAssemblyReference.cache
+C:\Users\madel\source\repos\Exercise_111\obj\Debug\Exercise_111.csproj.CoreCompileInputs.cache
+C:\Users\madel\source\repos\Exercise_111\bin\Debug\Exercise_111.exe.config
+C:\Users\madel\source\repos\Exercise_111\bin\Debug\Exercise_111.exe
+C:\Users\madel\source\repos\Exercise_111\bin\Debug\Exercise_111.pdb
+C:\Users\madel\source\repos\Exercise_111\obj\Debug\Exercise_111.exe
+C:\Users\madel\source\repos\Exercise_111\obj\Debug\Exercise_111.pdb

@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\bin\Debug\Exercise_115.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\bin\Debug\Exercise_115.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\bin\Debug\Exercise_115.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\obj\Debug\Exercise_115.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\obj\Debug\Exercise_115.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\obj\Debug\Exercise_115.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_115\obj\Debug\Exercise_115.pdb

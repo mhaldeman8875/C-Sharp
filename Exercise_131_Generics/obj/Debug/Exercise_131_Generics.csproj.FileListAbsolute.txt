@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\bin\Debug\Exercise_131_Generics.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\bin\Debug\Exercise_131_Generics.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\bin\Debug\Exercise_131_Generics.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\obj\Debug\Exercise_131_Generics.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\obj\Debug\Exercise_131_Generics.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\obj\Debug\Exercise_131_Generics.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_131_Generics\obj\Debug\Exercise_131_Generics.pdb

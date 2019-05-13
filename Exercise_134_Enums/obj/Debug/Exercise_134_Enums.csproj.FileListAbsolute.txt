@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\bin\Debug\Exercise_134_Enums.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\bin\Debug\Exercise_134_Enums.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\bin\Debug\Exercise_134_Enums.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\obj\Debug\Exercise_134_Enums.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\obj\Debug\Exercise_134_Enums.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\obj\Debug\Exercise_134_Enums.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_134_Enums\obj\Debug\Exercise_134_Enums.pdb

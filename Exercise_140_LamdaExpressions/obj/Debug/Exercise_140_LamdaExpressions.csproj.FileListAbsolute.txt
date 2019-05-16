@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\bin\Debug\Exercise_140_LamdaExpressions.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\bin\Debug\Exercise_140_LamdaExpressions.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\bin\Debug\Exercise_140_LamdaExpressions.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\obj\Debug\Exercise_140_LamdaExpressions.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\obj\Debug\Exercise_140_LamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\obj\Debug\Exercise_140_LamdaExpressions.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_140_LamdaExpressions\obj\Debug\Exercise_140_LamdaExpressions.pdb

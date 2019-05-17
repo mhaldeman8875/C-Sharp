@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\bin\Debug\Exercise_154_FileIO.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\bin\Debug\Exercise_154_FileIO.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\bin\Debug\Exercise_154_FileIO.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\obj\Debug\Exercise_154_FileIO.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\obj\Debug\Exercise_154_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\obj\Debug\Exercise_154_FileIO.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_154_FileIO\obj\Debug\Exercise_154_FileIO.pdb

@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\bin\Debug\Exercise_165_ExceptionHandling.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\bin\Debug\Exercise_165_ExceptionHandling.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\bin\Debug\Exercise_165_ExceptionHandling.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\obj\Debug\Exercise_165_ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\obj\Debug\Exercise_165_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\obj\Debug\Exercise_165_ExceptionHandling.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_165_ExceptionHandling\obj\Debug\Exercise_165_ExceptionHandling.pdb

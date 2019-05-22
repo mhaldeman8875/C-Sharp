@@ -1,0 +1,7 @@
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\bin\Debug\Exercise_156_DateTime.exe.config
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\bin\Debug\Exercise_156_DateTime.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\bin\Debug\Exercise_156_DateTime.pdb
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\obj\Debug\Exercise_156_DateTime.csprojAssemblyReference.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\obj\Debug\Exercise_156_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\obj\Debug\Exercise_156_DateTime.exe
+C:\Users\madel\Desktop\c-sharp\C-Sharp\Exercise_156_DateTime\obj\Debug\Exercise_156_DateTime.pdb

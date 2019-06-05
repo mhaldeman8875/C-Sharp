@@ -1,0 +1,98 @@
+﻿@model CarInsurance.Models.Policy
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="row no-gutters m-3">
+        <div class="card shadow col-sm-12 col-md-10 col-lg-6 mx-auto">
+            <div class="card-header text-center">
+                <h1 class="m-0">Car Insurance Calculator</h1>
+                <p>Please fill out the form below to get your car insurance quote</p>
+            </div>
+            <div class="card-body">
+
+                <div class="row no-gutters">
+                    <div class="form-group col-md-12">
+                        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", @placeholder = "First Name" } })
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Last Name" } })
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        @*<input name="EmailAddress" type="email" class="form-control" placeholder="Email" />*@
+                        @Html.EditorFor(model => model.EmailAddress, new { htmlAttributes = new { @class = "form-control", @placeholder = "Email" } })
+                    </div>
+
+                    <div class="form-group col-md-12">
+                        <label for="DOB">Enter your date of birth</label>
+                        @*<input name="DateOfBirth" type="date" class="form-control" id="DOB">*@
+                        @Html.EditorFor(model => model.DateOfBirth, new { htmlAttributes = new { @class = "form-control", @id = "DOB", @type = "date" } })
+                    </div>
+                    <div class="form-group col-md-12">
+                        @*<input name="CarYear" type="number" class="form-control" placeholder="Vehicle Year" />*@
+                        @Html.EditorFor(model => model.CarYear, new { htmlAttributes = new { @class = "form-control", @placeholder = "Vehicle Year", @type = "number" } })
+                    </div>
+                    <div class="form-group col-md-12">
+                        @*<input name="CarMake" type="text" class="form-control" placeholder="Vehicle Make" />*@
+                        @Html.EditorFor(model => model.CarMake, new { htmlAttributes = new { @class = "form-control", @placeholder = "Vehicle Make" } })
+                    </div>
+                    <div class="form-group col-md-12">
+                        @*<input name="CarModel" type="text" class="form-control" placeholder="Vehicle Model" />*@
+                        @Html.EditorFor(model => model.CarModel, new { htmlAttributes = new { @class = "form-control", @placeholder = "Vehicle Model" } })
+                    </div>
+                    <div class="form-group col-md-12">
+                        @*<input name="Tickets" type="number" class="form-control" placeholder="# of Speeding Tickets" />*@
+                        @Html.EditorFor(model => model.Tickets, new { htmlAttributes = new { @class = "form-control", @placeholder = "# of Speeding Tickets", @type = "number" } })
+                    </div>
+                    <div class="form-group col-md-12">
+                        <div class="checkbox">
+                            <label for="Dui">Check box if you've ever had a DUI    </label>
+
+                            @Html.EditorFor(model => model.Dui, new { @id = "Dui" })
+                            @Html.ValidationMessageFor(model => model.Dui, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-12">                      
+                        <div class="checkbox">
+                            <label for="Coverage">Check box for full coverage    </label>
+
+                            @Html.EditorFor(model => model.Coverage, new { @id = "Coverage" })
+                            @Html.ValidationMessageFor(model => model.Coverage, "", new { @class = "text-danger" })
+                        </div>                      
+                    </div>
+
+                    <div class="form-group col-md-12">
+                            @Html.EditorFor(model => model.Quote, new { htmlAttributes = new { @class = "form-control", @placeholder = "Quote" } })
+                            @Html.ValidationMessageFor(model => model.Quote, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group col-md-12">
+                            <input type="submit" value="Create" class="btn btn-block btn-primary" />
+                    </div>
+                    @*<button type="submit" class="btn btn-block btn-primary">Submit</button>*@
+
+                </div>
+            </div>
+            </div>
+        </div>
+                }
+
+                <div>
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+
+                @section Scripts {
+                    @Scripts.Render("~/bundles/jqueryval")
+                }

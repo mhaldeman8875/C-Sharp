@@ -1,0 +1,58 @@
+﻿
+@using CarInsurance.ViewModels
+@model List<AdminVm>
+
+@{
+    ViewBag.Title = "AdminVm";
+}
+
+<h2>Administrative View</h2>
+<h4>Customer Quotes</h4>
+
+@foreach (var AdminVm in Model)
+{
+
+
+    <div>
+
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => AdminVm.FirstName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => AdminVm.FirstName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => AdminVm.LastName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => AdminVm.LastName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => AdminVm.EmailAddress)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => AdminVm.EmailAddress)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => AdminVm.Quote)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => AdminVm.Quote)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = AdminVm.Id }) |
+        @Html.ActionLink("Full list of information", "Index")
+    </p>
+}
